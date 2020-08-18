@@ -1,0 +1,22 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjdhl/circleCi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjdhl/circleCi/issues"
+  },
+  "homepage": "https://github.com/pjdhl/circleCi#readme",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
